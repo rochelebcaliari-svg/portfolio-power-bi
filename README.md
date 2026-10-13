@@ -8,46 +8,43 @@ Este repositório reúne projetos desenvolvidos para praticar e demonstrar compe
 
 ## Projetos
 
-### Projeto 1 — Dashboard Power BI
+### Projeto 1 — Dashboard de Controle Administrativo e Indicadores Operacionais
 
 - **Ferramenta:** Microsoft Power BI Desktop
-- **Arquivo de projeto recebido:** `portifólio 1.1.pbip`
-- **Objetivo de negócio:** preencher após validar o conteúdo do dashboard.
-- **Fonte e descrição dos dados:** preencher após validar a base utilizada.
-- **Tratamento dos dados:** documentar as etapas efetivamente realizadas.
-- **Indicadores e análises:** listar apenas os indicadores presentes no relatório.
-- **Principais conclusões:** registrar conclusões sustentadas pelos dados.
+- **Arquivo do projeto:** `Portifólio 1.1.pbix`
+- **Objetivo de negócio:** acompanhar despesas administrativas por categoria, fornecedor e mês, com indicadores de total, volume de lançamentos, valor médio e variação mensal.
+- **Fonte dos dados:** base fictícia `ControleAdministrativo` (lançamentos de janeiro a junho), criada para fins de estudo.
+- **Tratamento dos dados:** importação e preparação no Power Query, incluindo coluna de mês ordenado para ordenação cronológica correta.
+- **Indicadores e análises:** Total em Reais, Quantidade de Lançamentos, Valor Médio por Lançamento e Variação Mensal %; análises por categoria, por fornecedor e evolução mensal.
+- **Principais conclusões:** [preencher com 2–3 frases suas — ex.: qual categoria/fornecedor concentra maior gasto, qual mês teve pico]
 
 #### Prévia do dashboard
 
-Adicione uma imagem do relatório nesta pasta, por exemplo `imagens/dashboard.png`, e depois substitua este texto por:
-
-![Prévia do dashboard](dashboard.jpg) > Commit changes.
+![Prévia do dashboard](dashboard.jpg)
 
 #### Arquivos do projeto
 
-O arquivo `.pbip` é um arquivo de definição do projeto e faz referência a outros arquivos/pastas do Power BI. Para disponibilizar o projeto completo, inclua a estrutura complementar gerada pelo Power BI, após verificar que ela não contém credenciais, caminhos locais ou dados confidenciais.
+- `Portifólio 1.1.pbix` — projeto completo, pronto para abrir no Power BI Desktop (gratuito).
+- `dashboard.jpg` — prévia do painel.
 
 ## Competências demonstradas
 
-Preencha esta seção de acordo com o que foi realmente utilizado no projeto:
-
-- [ ] Importação e preparação de dados no Power Query
-- [ ] Modelagem de dados
-- [ ] Medidas e cálculos DAX
-- [ ] Indicadores-chave (KPIs)
-- [ ] Visualizações e filtros interativos
-- [ ] Validação dos resultados
-- [ ] Interpretação dos dados e recomendações
+- [x] Importação e preparação de dados no Power Query
+- [x] Medidas e cálculos DAX
+- [x] Indicadores-chave (KPIs)
+- [x] Visualizações e filtros interativos
+- [x] Validação dos resultados
+- [x] Interpretação dos dados e recomendações
 
 ## Como visualizar
 
-A prévia em imagem pode ser consultada diretamente no GitHub. Para explorar o relatório interativamente, será necessário disponibilizar uma forma segura de acesso ao relatório publicado ou fornecer o arquivo completo do Power BI, quando apropriado.
+1. Veja a prévia em imagem aqui no GitHub.
+2. Para explorar a versão interativa, baixe o arquivo `.pbix` e abra no Power BI Desktop (download gratuito no site da Microsoft).
 
 ## Observação sobre os dados
 
-Informe se os dados são fictícios, públicos ou autorizados para divulgação. Não publique dados pessoais, informações confidenciais, credenciais ou dados de clientes/empregadores.
+Os dados utilizados são **fictícios**, criados exclusivamente para fins de estudo e demonstração. Nenhuma informação real de empresas, clientes ou pessoas é publicada neste repositório.
 
 ## Contato
 
-Adicione aqui seu link profissional do LinkedIn, quando desejar.
+- LinkedIn: [rochele-caliari](https://www.linkedin.com/in/rochele-caliari-458a492a7)
