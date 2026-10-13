@@ -16,7 +16,10 @@ Este repositório reúne projetos desenvolvidos para praticar e demonstrar compe
 - **Fonte dos dados:** base fictícia `ControleAdministrativo` (lançamentos de janeiro a junho), criada para fins de estudo.
 - **Tratamento dos dados:** importação e preparação no Power Query, incluindo coluna de mês ordenado para ordenação cronológica correta.
 - **Indicadores e análises:** Total em Reais, Quantidade de Lançamentos, Valor Médio por Lançamento e Variação Mensal %; análises por categoria, por fornecedor e evolução mensal.
-- **Principais conclusões:** [preencher com 2–3 frases suas — ex.: qual categoria/fornecedor concentra maior gasto, qual mês teve pico]
+- **Principais conclusões:** 
+  - O fornecedor **Alfa** concentra o maior gasto do período (R$ 5.600,00), e a categoria **Manutenção** domina as despesas, respondendo por 41,5% do total — seguida de Transporte (32,6%) e Limpeza (25,9%).
+  - **Maio** registrou o pico de despesas (R$ 2.850,00, alta de 33,8% sobre abril), seguido da maior queda do semestre em junho (-27,4%).
+  - A tendência geral é de **oscilação**, sem direção estável: o semestre alterna altas e quedas, com volatilidade mais acentuada no fim do período (maio–junho).
 
 #### Prévia do dashboard
 
