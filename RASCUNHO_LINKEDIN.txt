@@ -1,0 +1,9 @@
+Meu primeiro projeto de portfólio em Power BI está em desenvolvimento.
+
+O objetivo é demonstrar, de forma prática, minhas competências em Business Intelligence e análise de dados, conectando visualização de informações a perguntas de negócio.
+
+Neste projeto, estou documentando a finalidade do dashboard, os dados utilizados, os indicadores, as etapas de preparação e as principais observações sustentadas pelos dados.
+
+Ferramentas e técnicas serão descritas conforme efetivamente utilizadas no projeto.
+
+#PowerBI #BusinessIntelligence #AnáliseDeDados #Portfólio
