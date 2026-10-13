@@ -22,7 +22,7 @@ Este repositório reúne projetos desenvolvidos para praticar e demonstrar compe
 
 Adicione uma imagem do relatório nesta pasta, por exemplo `imagens/dashboard.png`, e depois substitua este texto por:
 
-`![Prévia do dashboard](imagens/dashboard.png)`
+![Prévia do dashboard](dashboard.jpg) > Commit changes.
 
 #### Arquivos do projeto
 
